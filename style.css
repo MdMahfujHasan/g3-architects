@@ -79,8 +79,8 @@ nav .title:hover,
 }
 
 .banner-img img {
-    width: 1440px;
-    height: 700px;
+    width: 1310px;
+    height: 636px;
     border-radius: 8px;
     margin-top: 50px;
 
@@ -333,6 +333,10 @@ footer {
 
     .features-img {
         grid-template-columns: 1fr;
+    }
+
+    .features-2 .primary-btn {
+        display: none;
     }
 
     .features-2 {
